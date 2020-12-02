@@ -1,5 +1,12 @@
 
+
 <img src="magenta-logo-bg.png" height="75">
+
+## Instructions - Ankur
+```
+cd scripts && ./create_dataset.sh
+```
+
 
 [![Build Status](https://github.com/magenta/magenta/workflows/build/badge.svg)](https://github.com/magenta/magenta/actions?query=workflow%3Abuild)
  [![PyPI version](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta)
